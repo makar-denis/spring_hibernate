@@ -26,6 +26,4 @@ public class CarDaoImp implements CarDao {
         return query.getResultList();
     }
 
-
-
 }
